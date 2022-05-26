@@ -1,0 +1,424 @@
+4x4x4 LED Cube Kit with Arduino
+
+![](media/f1e0f665397c7528fec15cb941cb4ab4.png)
+
+1.  **Introduction**
+
+For ARDUINO starters, we’d love to do projects that would blow people’s mind
+off. But without certain basic knowledge of electronics, we may find it
+difficult to do complicated projects such as robots, 3D printers etc. This 4x4x4
+LED Cube kit we developed is no doubt your best choice.
+
+So what is LED Cube? Well, by the name of it, we can tell it may be a light
+emitting cube. We use 64 LEDs to solder a 4\*4\*4 3D-matrix. Each face of the
+cube or should we say each dot of the cube will emit beautiful light.
+
+This 3D LED cube is based on ARDUINO, an open-source environment. So it also has
+features of open-source and easy-to-use. Even for enthusiasts without solid
+electronic knowledge, you can make projects that are going to amaze others!
+
+1.  **Features**
+
+• Adopts 64 blue LEDs
+
+• working voltage: 5V
+
+• working current: 150MA
+
+• power input with built-in voltage step-up circuit
+
+• compatible with ARDUINO open-source hardware
+
+• comes with animations program
+
+• Simple assembly using a PCB frame
+
+• can work off-line (doesn’t require a computer after program is uploaded)
+
+**3. Part list**
+
+![g](media/691bc2f06a83ed6dfbaacbdc8c4388f5.jpeg)
+
+![亚克力-8](media/dcbdaa5c1c08a1071adf5f74ade22d50.jpeg)
+
+1 Control panel (1 PCS)
+
+2 Soldering jig (1 PCS)
+
+3 Acrylic chassis (1 PCS)
+
+4 Acrylic crown sheet (1 PCS)
+
+5、6、7、8 Acrylic side plate ，then No. 6 and 8 is the same (4 PCS in total)
+
+![散件-8](media/a080b2a41a660526dfb73775a5d4799e.jpeg)
+
+1 Stand horizontal plate(16 PCS)
+
+2 Stand upright column board (8 PCS)
+
+3 Horizontal holder board (8 PCS)
+
+4 Copper bush (4 PCS)
+
+5 3\*10 inner-hexagon screw（4 PCS）
+
+6 3\*6 inner-hexagon screw（4 PCS）
+
+7 3M nut（4 PCS）
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+Self-prepare tools：
+
+Soldering iron, Tinny line, Inner-hexagon tool
+
+**Step by step soldering instructions:**
+
+1、Solder the stand horizontal plates.
+
+![025](media/0ae96432441c40de6f7287e01e4e31ed.jpeg)
+
+Unpick the stand horizontal plates as shown above.
+
+![026](media/59b305a6dc19155990fb292314a0176a.jpeg)
+
+Unpick the horizontal holder boards following the previous step.
+
+![063](media/7aa39bd9d62591728993d2592dc9d12c.jpeg)
+
+Set four nuts in in the kit as shown above，then put four stand horizontal
+plates on the soldering jig，and black lines on the stand horizontal plates aims
+to indicate the place of subsequent soldering holder boards.
+
+![065](media/fb325b9767dbcc02dd23c15b210f30a3.jpeg)
+
+Place the soldering jig on four nuts, and then put two horizontal holder board
+on the stand horizontal plate between black line（Notice: the solder point of 4
+plane PCB strips should be close to solder point of fixing strip) , and finally
+add tin to fix them on eight welding spots by soldering iron.
+
+![066](media/c74ebe5e08beb5b5154c82275962a0a9.jpeg)
+
+Stand soldered by eight welding spots above.
+
+![123](media/192f08b8951c57db230c7b6c866a0fa8.jpeg)
+
+Continuously solder four stands as above steps.
+
+3、Install upright stand.
+
+![KS0182 单色光立方](media/9aa2b8330699b4dd4e1e0fa1a7c9db7f.jpeg)
+
+Every upright has its own place and can’t be installed mistakenly, so before
+installing confirm the place of every upright. As shown above , Upright A must
+be inserted in the aperture on the Chassis A, and Upright B must be inserted in
+the aperture on the Chassis B. Continue like this until eight uprights are
+inserted in the aperture of corresponding letters on the chassis.
+
+![070](media/97a0bf4865731a3a089002e28e062341.jpeg)
+
+As shown above , place properly four horizontal plates in the same direction,
+and install Upright A on the gap. Don’t add tin to solder after installing.
+
+![073](media/b58c8321445da54596871c563c0e3057.jpeg)
+
+As shown above , install respectively Upright C, E, G according to the previous
+step.
+
+![1](media/3047c73776fce581468ed54732d5426a.jpeg)
+
+As shown above , install Upright B on the gap. Don’t add tin to solder after
+installing.
+
+![2](media/b1a219705b6f6f4aa623399775540220.jpeg)
+
+As shown above , install respectively Upright D,F, H according to the previous
+step.
+
+![078](media/88f5a5a8bc9221a4713a26737c2d7f8d.jpeg)
+
+Tighten four copper bushes in the control board by using four 3M nuts.
+
+![080](media/3eb1803bbf9e801b5a138c91c3e9ff37.jpeg)
+
+After the stand inserted the chassis, adjust them to be vertical.
+
+![081](media/20c61a93fdca67183bf211ccc9fa5431.jpeg)
+
+According to last step, add tin to solder the bonding pad between horizontal
+stand and upright by soldering iron. If there is bonding pad on horizontal stand
+but not on upright, don’t need to add tin to solder.
+
+![087](media/7396f7326ac0ba4b932cb4868335c5fa.jpeg)
+
+After soldering all bonding pads, please check carefully whether there are
+welding spots lacking tin. Welded finished product as shown above.
+
+![093](media/588d446a8c02607483fb8a2feea37836.jpeg)
+
+As shown above, fix four copper bushes on Acrylic chassis by four3\*6
+inner-hexagon screws.
+
+![095](media/684d16098bc4aea06e8fa33d8029544d.jpeg)
+
+Install four Acrylic side plates in the slot of Acrylic chassis.
+
+Notice: the holes of acrylic side boards are aligned with the corresponding
+positions of control board.
+
+![096](media/4e8d4be3c88e8a9ed531fdd5d1c4794c.jpeg)
+
+Next, install Acrylic crown sheet according to slots.
+
+![099](media/6c0b3ba7c84298ee9e2903a48588046e.jpeg)
+
+After installing , upset it according to above picture, and then lock tightly
+Acrylic chassis with Acrylic side plate by using two 3\*10 inner-hexagon screws
+and two 3M nuts.
+
+![101](media/4a9737ed5effe2f77d2cf0bf69504fde.jpeg)
+
+\-
+
+As shown above, a tightening chassis.
+
+![103](media/5305b11a87cbc4823c9c7e13a6b52d55.jpeg)
+
+Then tighten the screws of Acrylic crown sheet, and as shown above, it is the
+finished product after installing.
+
+**4. Program**
+
+**1. Wiring:**
+
+| Control board  | Arduino FTDI basic program downloader |
+|----------------|---------------------------------------|
+| VCC            | 5V                                    |
+| GND            | GND                                   |
+| RST            | DTR                                   |
+| TXD            | RXD                                   |
+| RXD            | TXD                                   |
+
+**2.Connection diagram:**
+
+![022YK0S5W93\$T[H740Z}{J2](media/4874a22300f53df5b67577520db45017.png)
+
+3.Upload Program Method
+
+1.  Set control board type
+
+![](media/303ffd97138cef4a120065b8d868a52b.png)
+
+1.  Set the port
+
+![](media/c94ead8609b8f119159303ccbdb84ddc.png)
+
+1.  Set this step by default
+
+![](media/b89982bd7d988c062cc09baafcde62c8.png)
+
+1.  After setting well, click ![](media/9487097cd8baa76fad1547068ab93092.png) to
+    upload program.
+
+![](media/4805a7b625062ff0cfb27132af9902a3.png)
+
+**4.Sample code:**
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+\#include \<avr/pgmspace.h\>
+
+\#define CUBESIZE 4
+
+\#define PLANESIZE CUBESIZE\*CUBESIZE
+
+\#define PLANETIME 3333
+
+\#define TIMECONST 20
+
+prog_uchar PROGMEM PatternTable[] = {
+
+//////////生成动画的代码粘贴到这里面////////////////////
+
+B0001,B0000,B0000,B0000,B0001,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,10,
+
+B0011,B0000,B0000,B0000,B0011,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,10,
+
+B0011,B0010,B0000,B0000,B0011,B0010,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,10,
+
+B0011,B0011,B0000,B0000,B0011,B0011,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,10,
+
+B0110,B0110,B0000,B0000,B0110,B0110,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,10,
+
+B0000,B0000,B0000,B0000,B0110,B0110,B0000,B0000,B0110,B0110,B0000,B0000,B0000,B0000,B0000,B0000,10,
+
+B0000,B0000,B0000,B0000,B0000,B0110,B0110,B0000,B0000,B0110,B0110,B0000,B0000,B0000,B0000,B0000,10,
+
+B0000,B0000,B0000,B0000,B0000,B0000,B0110,B0110,B0000,B0000,B0110,B0110,B0000,B0000,B0000,B0000,10,
+
+B0000,B0000,B0000,B0000,B0000,B0000,B0011,B0011,B0000,B0000,B0011,B0011,B0000,B0000,B0000,B0000,10,
+
+B0000,B0000,B0000,B0000,B0000,B0001,B0011,B0111,B0000,B0001,B0011,B0111,B0000,B0000,B0001,B0011,10,
+
+B0000,B0000,B0000,B0000,B0000,B0011,B0111,B0111,B0000,B0011,B0111,B0111,B0000,B0001,B0011,B0111,10,
+
+B0000,B0000,B0000,B0000,B0000,B0111,B0111,B0111,B0000,B0111,B0111,B0111,B0000,B0011,B0111,B0111,10,
+
+B0000,B0000,B0000,B0000,B0000,B0111,B0111,B0111,B0000,B0111,B0111,B0111,B0000,B0111,B0111,B0111,10,
+
+B0000,B0000,B0000,B0000,B0000,B1110,B1110,B1110,B0000,B1110,B1110,B1110,B0000,B1110,B1110,B1110,10,
+
+B0000,B1110,B1110,B1110,B0000,B1110,B1110,B1110,B0000,B1110,B1110,B1110,B0000,B0000,B0000,B0000,10,
+
+B0000,B1110,B1110,B1110,B0000,B1110,B1110,B1110,B0000,B1100,B1110,B1110,B0000,B0000,B0000,B0000,10,
+
+B0000,B1110,B1110,B1110,B0000,B1100,B1110,B1110,B0000,B1000,B1100,B1110,B0000,B0000,B0000,B0000,10,
+
+B0000,B1100,B1110,B1110,B0000,B1000,B1100,B1110,B0000,B0000,B1000,B1100,B0000,B0000,B0000,B0000,10,
+
+B0000,B1000,B1100,B1110,B0000,B0000,B1000,B1100,B0000,B0000,B0000,B1000,B0000,B0000,B0000,B0000,10,
+
+B0000,B0000,B1000,B1100,B0000,B0000,B0000,B1000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,10,
+
+B0000,B0000,B0000,B1000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,10,
+
+B0000,B0000,B1000,B1000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,10,
+
+B0000,B1000,B1000,B1000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,10,
+
+B1000,B1000,B1000,B1000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,10,
+
+B1100,B1000,B1000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,10,
+
+B1110,B1000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,10,
+
+B1110,B0000,B0000,B0000,B0010,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,B0000,10,
+
+B0000, B0000, B0000, B0000, B0000, B0000, B0000, B0000, B0000, B0000, B0000,
+B0000, B0000, B0000, B0000, B0000, 0
+
+};
+
+int LEDPin[] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, A0, A1};
+
+int PlanePin[] = {A2, A3, A4, A5};
+
+void setup()
+
+{
+
+int pin;
+
+for (pin=0; pin\<PLANESIZE; pin++) {
+
+pinMode( LEDPin[pin], OUTPUT );
+
+}
+
+for (pin=0; pin\<CUBESIZE; pin++) {
+
+pinMode( PlanePin[pin], OUTPUT );
+
+}
+
+}
+
+void loop()
+
+{
+
+byte PatternBuf[PLANESIZE];
+
+int PatternIdx;
+
+byte DisplayTime;
+
+unsigned long EndTime;
+
+int plane;
+
+int patbufidx;
+
+int ledrow;
+
+int ledcol;
+
+int ledpin;
+
+PatternIdx = 0;
+
+do {
+
+memcpy_P( PatternBuf, PatternTable+PatternIdx, PLANESIZE );
+
+PatternIdx += PLANESIZE;
+
+DisplayTime = pgm_read_byte_near( PatternTable + PatternIdx++ );
+
+EndTime = millis() + ((unsigned long) DisplayTime) \* TIMECONST;
+
+while ( millis() \< EndTime ) {
+
+patbufidx = 0;
+
+for (plane=0; plane\<CUBESIZE; plane++) {
+
+if (plane==0) {
+
+digitalWrite( PlanePin[CUBESIZE-1], HIGH );
+
+} else {
+
+digitalWrite( PlanePin[plane-1], HIGH );
+
+}
+
+ledpin = 0;
+
+for (ledrow=0; ledrow\<CUBESIZE; ledrow++) {
+
+for (ledcol=0; ledcol\<CUBESIZE; ledcol++) {
+
+digitalWrite( LEDPin[ledpin++], PatternBuf[patbufidx] & (1 \<\< ledcol) );
+
+}
+
+patbufidx++;
+
+}
+
+digitalWrite( PlanePin[plane], LOW );
+
+delayMicroseconds( PLANETIME );
+
+}
+
+}
+
+} while (DisplayTime \> 0);
+
+}
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+![未标题-1](media/13e7e5146646197930078ed480ae2de1.jpeg)
+
+After program is uploaded, with power on , you can see the beautiful light
+effect.
+
+**5. Links for resources needed for the project:**
+
+ARTDUINO software download address: <https://www.arduino.cc/en/Main/Software>
+(The version we tested was Arduino 1.5.6, new version may be not compatible,
+such as Arduino1.8.10)
+
+Project code address:
+
+<http://7326097.s21d-7.faiusrd.com/0/ABUIABAAGAAg3eL-ugUot5fxpQU?f=CUBE4+CODE.rar&v=1465905453>
+
+<http://www.instructables.com/id/4x4x4-LED-Cube-Arduino-Uno/>
+
+<http://www.instructables.com/id/The-4x4x4-LED-cube-Arduino/>
+
+<http://www.makeuseof.com/tag/how-to-make-a-pulsating-arduino-led-cube-that-looks-like-it-came-from-the-future/>
